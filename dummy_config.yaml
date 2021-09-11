@@ -1,0 +1,8 @@
+reddit:
+  username: reddit username here
+  password: reddit password here
+  client_id: reddit client id here
+  secret: reddit secret here
+
+app:
+  token_pkl: path where the token will be stored
